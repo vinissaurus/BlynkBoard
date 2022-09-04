@@ -1,0 +1,3 @@
+# BlynkBoard
+
+## This is BlinkBoard project, back to life. It should be going somewhere soon...
